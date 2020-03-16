@@ -1,5 +1,5 @@
 Essa pasta contém alguns dos códigos utilizados em minha iniciação científica. Parte dos códigos são
-puramente plot de gráficos de interesse.
+puramente plot de gráficos de interesse ou imagens registro de resultados obtidos.
 
 O arquivo ProgIC.py é um programa desenvolvido para simular os dados de um experimento realizado no acelerador Pelletron (IFUSP).
 Para rodar esse código é preciso das extensões matplotlib, os, numpy tanto como os arquivos de texto presentes nesta pasta.
