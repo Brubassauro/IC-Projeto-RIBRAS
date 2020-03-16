@@ -148,7 +148,7 @@ def prob_posicao(Expessura):
 # FUNÇÃO PROBABILIDADE PARA O ANGULO DE ESPALHAMENTO
 
 def prob_angulo(Ang):
-	x=Ang#int(Ang+1*np.random.randn(1)[0])
+	x=int(Ang+0.5*np.random.randn(1)[0])
 	return x
 
 # ====================================================================================================== #
@@ -200,7 +200,7 @@ def main(N,Proj,Alvo,Detector,AngD):
 			os.system('stopx < stopx_in.txt > stopx_out.txt')
 			Ef=output_stopx()
 			DE= E-Ef
-			Incerteza=0#np.random.randn(1)[0]*2*DE/100
+			Incerteza=np.random.randn(1)[0]*2*DE/100
 			Y[n]=DE+Incerteza
 			X[n]=E+Incerteza
 
