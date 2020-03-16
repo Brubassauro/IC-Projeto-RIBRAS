@@ -1,0 +1,26 @@
+ CMD..Associated data....Meaning or Action                   
+ HELP                    Displays this list again            
+ REL                     Specifies relativistic kinematics   
+ CLAS                    Specifies classical    kinematics   
+ Q                       Specifies Q-value calculations only 
+ LEV  ELEV               ELEV gives level-energy in MeV      
+ FUNA ELAB,AMIN,AMAX,DA  Says calc vs lab-angle of OUTGOING  
+ FUNA                    Calc vs lab-angle: use previovs data
+ FUNE ALAB,EMIN,EMAX,DE  Says calc vs lab-energy of OUTGOING 
+ FUNE                    Calc vs lab-energy:use previovs data
+                         ELAB,EMIN,EMAX & DE are in MeV      
+                         ALAB,AMIN,AMAX & DA are in degrees  
+ TARG(PROJ,OUT)RES       Specifies reaction of interest      
+ TARG(PROJ,OUT)          Same as above but RESIDUAL computed 
+ TARG(PROJ)              Fusion reaction (Q-values only)     
+ STAT                    Displays current "conditions"       
+ GO                      Says DO IT - output to kineq.log    
+ GOS                     Says GO (to screen only) (REL only) 
+ CMD fil                 Open & read commands from fil.cmd   
+ END                     Ends program                        
+ KINEQ-> KINEQ-> KINEQ-> PROGRAM KINEQ - RELATIVISTIC KINEMATICS CALCULATION         
+       A-PROJ      A-TARG       A-OUT       A-RES       E-LEV           Q
+     4.002603   27.976927    4.002603   27.976927    0.000000    0.000000  TABL
+   E(MeV)  THLB-O THCM-O1 E(MeV)1   DO/DC1 THCM-O2 E(MeV)2   DO/DC2       SIGR
+   23.554  15.000  17.134  23.325   0.7713   0.000   0.000   0.0000  4.860E+03
+ KINEQ->
