@@ -6,3 +6,5 @@ Para rodar esse código é preciso das extensões matplotlib, os, numpy tanto co
 Também é preciso dos programas Stopx e Kineq que são programas de simulação de perda de energia de feixes.
 O programa desenvolvido utiliza o terminal no Ubuntu para chamar os programas específicos e simular o experimento
 de uma maneira automática e considerando algumas das incertezas experimentais tornando a simulação muito mais parecida com as medidas experimentais tomadas.
+
+Em sua última atualização (no arquivo Platex.py) o programa também produz um pdf com todos os resultados simulados.
