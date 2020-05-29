@@ -1,0 +1,22 @@
+200
+15
+9Be 0.0006
+9Be 0.0016
+9Be 0.0010704
+28Si 0.0020
+28Si 0.05
+9Be(7Li,6He) 22.1 3 2
+7Li 2
+4He 2
+
+[Nº de iterações]
+[Angulo do detector]
+Para 1 solenoide:[1]. Para 2 solenoides: [Absroverdor] [Espessura]
+[Alvo primário] [Espessura]
+[Alvo secundário] [Espessura]
+[Detector DE] [Espessura]
+[Detector D] [Espessura]
+[Reação de produção] [Energia do feixe primário] [Estado de carga do feixe de interesse]
+[Contaminante 1] [Estado de carga]
+[Contaminante 2] [Estado de carga]
+[Contaminante n] [Estado de carga]
