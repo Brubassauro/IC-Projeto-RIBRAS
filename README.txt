@@ -7,4 +7,4 @@ Também é preciso dos programas Stopx e Kineq que são programas de simulação
 O programa desenvolvido utiliza o terminal no Ubuntu para chamar os programas específicos e simular o experimento
 de uma maneira automática e considerando algumas das incertezas experimentais tornando a simulação muito mais parecida com as medidas experimentais tomadas.
 
-Em sua última atualização (no arquivo Platex.py) o programa também produz um pdf com todos os resultados simulados.
+*Em sua última atualização (substituindo o arquivo ProgIC.py pelo novo Platex.py) o programa também produz um pdf em latex com todos os resultados simulados e uma tabela para as perdas de energia. Esse pdf pode ser visto no exemplo "Relatorio.pdf".
